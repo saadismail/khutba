@@ -1,0 +1,11 @@
+{
+  "projectTitle": "Khutba Translation App",
+  "imam": {
+    "selectLanguages": "Select languagues"
+  },
+  "common": {
+    "english": "English",
+    "arabic": "Arabic",
+    "turkish": "Turkish"
+  }
+}
